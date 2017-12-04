@@ -1,0 +1,6 @@
+This sample workspace for https://github.com/arunmozhivarman/CloudNativePromotionService.git
+
+
+I created repository for CloudNativePromotionService . Please use GIT (https://git-scm.com/download/win) and tortoise Git tool( https://tortoisegit.org/download/ ).
+
+Repository URL: https://github.com/arunmozhivarman/CloudNativePromotionService.git
